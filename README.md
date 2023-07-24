@@ -4,15 +4,15 @@
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;年 龄：25  
-* 手 机：15528022618 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp; 邮 箱：15528022618@163.com    
-* 专 业：网络工程 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 求职意向：前端开发工程师
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;年 龄：25  
+* 手 机：15528022618 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp; 邮 箱：15528022618@163.com    
+* 专 业：网络工程 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 求职意向：前端开发工程师
 
 ## 工作及教育经历
 
-* EMQ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2021.8~至今&emsp;&emsp;&emsp;&emsp;ECP - 前端开发工程师
+* EMQ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2021.8~至今&emsp;&emsp;&emsp;&emsp;ECP - 前端开发工程师
 * 上海德拓&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;2020.7~2021.8&emsp;&emsp;&ensp; 爻拓 - 前端开发工程师
-* 成都消息工程大学&emsp;&ensp;&ensp; 2016.9~2020.7&emsp;&emsp;&ensp; 网络工程 - 本科生
+* 成都消息工程大学&emsp;&ensp;&ensp;&ensp;&ensp;2016.9~2020.7&emsp;&emsp;&ensp; 网络工程 - 本科生
 
 ## 专业技能
 
